@@ -1,35 +1,17 @@
-# Styleguide Vervoerregio Amsterdam
+> _Fork_ deze leertaak en ga aan de slag. 
+Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
+De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-<img width="1512" alt="Schermafbeelding 2022-11-21 om 08 11 26" src="https://user-images.githubusercontent.com/89298385/202987275-51bb1695-4917-4124-b6aa-38cf8b4add4c.png">
+# look and feel living styleguide
 
 
-## Inhoudsopgave
+![image](https://user-images.githubusercontent.com/112861160/204285477-91ac13aa-5d31-41bd-a82f-6d359ec15385.png)
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
 
-## Beschrijving
-Voor de opdrachtgever Vervoerregio Amsterdam bouwen wij aan de living styleguide. Dit is een overzichtsite die alle componenten bevat voor een website.
-Waaronder de volgende categorieën: Typografie, Lay-out, knoppen, input en formulieren, iconen, illustraties etc.
+# Mijn huistyle pagina (Input)
 
-## Kenmerken
-Deze styleguide is opgebouwd uit de volgende programmeertalen:
-* HTML
-* CSS
-* Javascript
+![image](https://user-images.githubusercontent.com/112861160/204285085-2c636c5f-c066-44f3-8874-cd0b799af938.png)
 
-## Bronnen
-Voor deze styleguide hebben we de volgende bronnen gebruikt:
-* [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-* https://css-tricks.com/
-* https://www.decathlon.design/
-* https://developer.mozilla.org/en-US/
-* https://whatwg.org/
+![image](https://user-images.githubusercontent.com/112861160/204285327-787bb833-91dc-4b1a-9325-89ebb24b8009.png)
 
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+![image](https://user-images.githubusercontent.com/112861160/204285370-0289c4b4-f4df-42a1-bffd-9ac56379eba8.png)
